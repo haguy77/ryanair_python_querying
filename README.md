@@ -8,7 +8,7 @@ Run the following command in the terminal:
 pip install -r requriements.txt
 ```
 ### Running
-Change the settings in settings.py of AIRPORT, YEAR_TO_CHECK, MONTH_TO_CHECK, DAYS_TO_CHECK, DAYS_TO_ADD_DICT.
+Change the settings in settings.py of AIRPORT, YEAR_TO_CHECK, MONTH_TO_CHECK, DAYS_LIST_TO_CHECK, DAYS_TO_ADD_DICT.
 Default is set to query all Wednesday-Saturday departures and returns after 2-4 days if departure on Wednesday or 
 Thursday, 2-3 days if on Friday and 2 days if on Saturday, on May 2022 from TLV airport.
 
