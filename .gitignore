@@ -1,5 +1,4 @@
-"Cheapest Flights.xlsx"
-Flights.xlsx
+*.xlsx
 ryanair/
 .idea/
 __pycache__/
