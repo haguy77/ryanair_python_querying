@@ -2,6 +2,12 @@
 
 This script allows querying ryanair and finding each flights and cheapest flight according to inputted settings.  
 This is using the ryanair-py package, pandas and datetime modules.  
+
+### prerequisites
+You need to have python and pip installed and that's it :)
+I use python 3.8.3 version and pip 21.3.1 version,
+but it should work just fine with different versions as well.
+
 ### Installation
 Run the following command in the terminal:
 ```
